@@ -1,0 +1,12 @@
+[+] event caller (with all the events mapped out)
+[+] finished about
+[+] menu for selecting
+[+] changelog file
+[+] finished changelog
+[+] added versions to the hwid file
+
+[/] changed name of repo
+[/] fixed some slices to be more efficant and less confusing
+
+[-] got rid of testing hwid's
+[-] token shower
