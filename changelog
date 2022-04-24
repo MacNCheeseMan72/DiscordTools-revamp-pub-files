@@ -9,6 +9,7 @@
 [/] changed name of repo
 [/] fixed some slices to be more efficant and less confusing
 [/] replaced "shower" with "display"
+[/] changed e1 --> em for expirimental mode (logiclly it makes sense)
 
 [-] got rid of testing hwid's
 [-] token display
