@@ -1,3 +1,14 @@
+(Changelog b7)
+[+] colors for changelog
+[+] colors for about
+[+] 3 more colors (for changelog coloring)
+
+[/] fixed the typo of "any key" to "enter" (just becuase it only closes on enter)
+
+[-] nothing
+
+
+(Changelog b6)
 [+] event caller (with all the events mapped out)
 [+] finished about
 [+] menu for selecting
