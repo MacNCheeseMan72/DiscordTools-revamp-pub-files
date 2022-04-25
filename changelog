@@ -2,12 +2,10 @@
 [+] colors for changelog
 [+] colors for about
 [+] 3 more colors (for changelog coloring)
-
 [/] fixed the typo of "any key" to "enter" (just becuase it only closes on enter)
-
 [-] nothing
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+_________________________________________________________________________________________________________________________
 (Changelog b6)
 [+] event caller (with all the events mapped out)
 [+] finished about
@@ -16,11 +14,9 @@
 [+] finished changelog
 [+] versions to the hwid file
 [+] updated expirimental with goals for the following day (sunday 4/23)
-
 [/] changed name of repo
 [/] fixed some slices to be more efficant and less confusing
 [/] replaced "shower" with "display"
 [/] changed e1 --> em for expirimental mode (logiclly it makes sense)
-
 [-] got rid of testing hwid's
 [-] token display
